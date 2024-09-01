@@ -26,3 +26,16 @@ h1{
     font-size: 5rem;
     margin: 0;
 }
+
+h2{
+    font-size: 2.2rem;
+}
+
+.welcome{
+    color: #717578;
+    font-size: 1.2rem;
+}
+
+h3{
+    color: #4a4f53;
+}
