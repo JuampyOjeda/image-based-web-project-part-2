@@ -45,3 +45,14 @@ input{
     height: 3.5rem;
     border-radius: 10px;
 }
+
+.btn{
+    background-color: #367bf5;
+    color: white;
+    width: 102%;
+    height: 3rem;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 1.5rem;
+    font-size: 1rem;
+}
