@@ -77,4 +77,14 @@ section{
     border-style: none;
     font-size: 15px;
 }
+.login:hover{
+    background-color: rgb(87, 88, 153);
+    transition: 0.5s;
+    cursor: pointer;
+}
 
+.register:hover{
+    color: red;
+    transition: 0.5s;
+    cursor: pointer;
+}
