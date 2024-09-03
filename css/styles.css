@@ -33,11 +33,12 @@ h2{
 
 .welcome{
     color: #717578;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 h3{
     color: #4a4f53;
+    font-size: 1.5rem;
 }
 
 input{
@@ -48,11 +49,11 @@ input{
     border-color: #b2b2b4;
 }
 
-.btn{
+.login{
     background-color: #367bf5;
     color: white;
     width: 102%;
-    height: 3rem;
+    height: 3.5rem;
     border-radius: 5px;
     border-style: none;
     margin-top: 1.5rem;
